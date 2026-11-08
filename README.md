@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=infinitelife102&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Engineer&descAlignY=58&descSize=20" alt="infinitelife102 banner" />
 
 <a href="https://github.com/infinitelife102">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=SENIOR+FULL+STACK+%26+MOBILE+ENGINEER;AI+ORCHESTRATION+EXPERT;Flutter+%7C+Kotlin+Multiplatform+%7C+Next.js+%7C+React" alt="Typing SVG" />
@@ -100,9 +99,6 @@ I build **cross-platform mobile apps**, **full-stack web platforms**, and **AI-p
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=infinitelife102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitelife102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=infinitelife102&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
