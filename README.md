@@ -96,24 +96,4 @@ I build **cross-platform mobile apps**, **full-stack web platforms**, and **AI-p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=infinitelife102&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
-
-<!--
-  ✏️ Add your contact links here, e.g.:
-  <a href="https://www.linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
-
 </div>
